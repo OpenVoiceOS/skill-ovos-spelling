@@ -1,0 +1,5 @@
+{
+    "word.rx": [
+        "(\u00e9pelle le mot|\u00e9pelle|orthographe du mot|orthographe de|\u00e9criture de) (?P<Word>\\w+)"
+    ]
+}

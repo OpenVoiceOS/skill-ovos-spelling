@@ -1,0 +1,5 @@
+{
+    "word.rx": [
+        "(stava ordet|stava till|stava till ordet)(?P<Word>\\w+)"
+    ]
+}

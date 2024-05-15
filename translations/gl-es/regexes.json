@@ -1,0 +1,5 @@
+{
+    "word.rx": [
+        "(deletrea a palabra|deletreo da palabra|ortograf\u00eda de(?! the)|deletrea(?! the)) (?P<Word>\\w+)"
+    ]
+}
