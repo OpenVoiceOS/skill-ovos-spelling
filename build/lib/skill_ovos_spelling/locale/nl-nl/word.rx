@@ -1,0 +1,1 @@
+(spel het woord|spel woord|spelling of het woord|spelling of(?! the)|spel(?! het)) (?P<Word>\w+)
