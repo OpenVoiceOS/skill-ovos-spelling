@@ -1,11 +1,12 @@
 # Changelog
 
-## [Unreleased](https://github.com/OpenVoiceOS/skill-ovos-spelling/tree/HEAD)
+## [0.2.2a1](https://github.com/OpenVoiceOS/skill-ovos-spelling/tree/0.2.2a1) (2024-10-15)
 
-[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-spelling/compare/V0.1.0...HEAD)
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-spelling/compare/V0.1.0...0.2.2a1)
 
 **Merged pull requests:**
 
+- fix:long description [\#5](https://github.com/OpenVoiceOS/skill-ovos-spelling/pull/5) ([JarbasAl](https://github.com/JarbasAl))
 - modernize imports [\#4](https://github.com/OpenVoiceOS/skill-ovos-spelling/pull/4) ([JarbasAl](https://github.com/JarbasAl))
 
 
