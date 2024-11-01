@@ -1,13 +1,12 @@
 # Changelog
 
-## [0.2.2a1](https://github.com/OpenVoiceOS/skill-ovos-spelling/tree/0.2.2a1) (2024-10-15)
+## [0.2.3a1](https://github.com/OpenVoiceOS/skill-ovos-spelling/tree/0.2.3a1) (2024-10-31)
 
-[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-spelling/compare/V0.1.0...0.2.2a1)
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-spelling/compare/0.2.2...0.2.3a1)
 
 **Merged pull requests:**
 
-- fix:long description [\#5](https://github.com/OpenVoiceOS/skill-ovos-spelling/pull/5) ([JarbasAl](https://github.com/JarbasAl))
-- modernize imports [\#4](https://github.com/OpenVoiceOS/skill-ovos-spelling/pull/4) ([JarbasAl](https://github.com/JarbasAl))
+- fix:allow workshop 3.0.0 [\#7](https://github.com/OpenVoiceOS/skill-ovos-spelling/pull/7) ([JarbasAl](https://github.com/JarbasAl))
 
 
 
