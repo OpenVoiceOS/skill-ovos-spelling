@@ -1,12 +1,12 @@
 # Changelog
 
-## [0.2.4a1](https://github.com/OpenVoiceOS/skill-ovos-spelling/tree/0.2.4a1) (2024-11-17)
+## [0.2.5a1](https://github.com/OpenVoiceOS/skill-ovos-spelling/tree/0.2.5a1) (2024-11-19)
 
-[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-spelling/compare/0.2.3...0.2.4a1)
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-spelling/compare/0.2.4...0.2.5a1)
 
 **Merged pull requests:**
 
-- fix: skilljson [\#9](https://github.com/OpenVoiceOS/skill-ovos-spelling/pull/9) ([JarbasAl](https://github.com/JarbasAl))
+- fix:allow workshop 3.0.0 [\#11](https://github.com/OpenVoiceOS/skill-ovos-spelling/pull/11) ([JarbasAl](https://github.com/JarbasAl))
 
 
 
