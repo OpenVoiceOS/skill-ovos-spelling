@@ -1,8 +1,8 @@
 # Changelog
 
-## [0.2.6a1](https://github.com/OpenVoiceOS/skill-ovos-spelling/tree/0.2.6a1) (2024-11-25)
+## [0.2.6a2](https://github.com/OpenVoiceOS/skill-ovos-spelling/tree/0.2.6a2) (2024-11-25)
 
-[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-spelling/compare/0.2.5...0.2.6a1)
+[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-spelling/compare/0.2.5...0.2.6a2)
 
 **Merged pull requests:**
 
