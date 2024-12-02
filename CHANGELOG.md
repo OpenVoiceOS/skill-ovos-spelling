@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.2.6a4](https://github.com/OpenVoiceOS/ovos-skill-spelling/tree/0.2.6a4) (2024-12-02)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-spelling/compare/0.2.6a3...0.2.6a4)
+
+**Merged pull requests:**
+
+- import basque translations [\#19](https://github.com/OpenVoiceOS/ovos-skill-spelling/pull/19) ([JarbasAl](https://github.com/JarbasAl))
+- de-de/translate [\#16](https://github.com/OpenVoiceOS/ovos-skill-spelling/pull/16) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
+
 ## [0.2.6a3](https://github.com/OpenVoiceOS/ovos-skill-spelling/tree/0.2.6a3) (2024-12-02)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-spelling/compare/0.2.6a1...0.2.6a3)
